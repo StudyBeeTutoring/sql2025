@@ -1,0 +1,8 @@
+SELECT*FROM executions LIMIT 3 //SELECT specifies which columns you want to output
+//* means all columns
+//FROM comes after SELECT block
+//FROM specifies which table 
+//WHERE comes after FROM 
+//SQL is not case sensiti#ve
+
+Get practice from: https://www.sqlzoo.net/wiki/SQL_Tutorial
