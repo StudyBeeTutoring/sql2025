@@ -34,3 +34,7 @@ WHERE area > 3000000 OR population>250000000
 SELECT name, population, area FROM world
 WHERE area > 3000000 XOR population>250000000
 //Show the countries that are big by area (more than 3 million) or big by population (more than 250 million) but not both. Show name, population and area.
+
+
+//Contest
+https://mystery.knightlab.com/
